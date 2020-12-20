@@ -1,4 +1,4 @@
-这是一个简单的类unix操作系统的部分实现，用于C代码学习
+# 这是一个简单的类unix操作系统的部分实现，用于C代码学习
 NOTE: we have stopped maintaining the x86 version of xv6, and switched
 our efforts to the RISC-V version
 (https://github.com/mit-pdos/xv6-riscv.git)
